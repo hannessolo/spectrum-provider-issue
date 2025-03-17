@@ -1,0 +1,22 @@
+{
+  "name": "test-ssh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adobe/react-spectrum": "^3.40.1",
+    "@extensibility/react-spectrum-custom-picker": "^0.0.3",
+    "husky": "^9.1.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "vite": "^6.2.2"
+  }
+}
